@@ -109,8 +109,6 @@ nav{
 }
 .main-content{
     flex-basis: 47%;
-    height: 100vh;
-    background: #c7f6d7;
 }
 .necessary-links a, .shortcut-links a{
     display: flex;
@@ -187,6 +185,13 @@ nav{
     font-size: 10px;
     padding: 4px 0;
 }
+.sidebar-ads{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+}
+
 /* ============================= 
     Body Section Start 
 ============================= */
